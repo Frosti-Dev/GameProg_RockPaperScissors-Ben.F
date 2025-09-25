@@ -171,8 +171,10 @@ namespace GameProg_RockPaperScissors_Ben.F
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Just type in 'rock', 'paper', or scissors'! Make sure its lowercased!");
 
+                //answer reciever
                 answerCheck(playeranswer(), cpuanswer());
                 
+                //win check
                 if (gameswon == 3)
                 {
                     Console.Clear();

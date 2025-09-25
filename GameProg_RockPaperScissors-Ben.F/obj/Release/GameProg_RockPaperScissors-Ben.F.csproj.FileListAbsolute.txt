@@ -1,0 +1,7 @@
+C:\school\programming code\GameProg_RockPaperScissors-Ben.F\GameProg_RockPaperScissors-Ben.F\bin\Release\GameProg_RockPaperScissors-Ben.F.exe.config
+C:\school\programming code\GameProg_RockPaperScissors-Ben.F\GameProg_RockPaperScissors-Ben.F\bin\Release\GameProg_RockPaperScissors-Ben.F.exe
+C:\school\programming code\GameProg_RockPaperScissors-Ben.F\GameProg_RockPaperScissors-Ben.F\bin\Release\GameProg_RockPaperScissors-Ben.F.pdb
+C:\school\programming code\GameProg_RockPaperScissors-Ben.F\GameProg_RockPaperScissors-Ben.F\obj\Release\GameProg_RockPaperScissors-Ben.F.csproj.AssemblyReference.cache
+C:\school\programming code\GameProg_RockPaperScissors-Ben.F\GameProg_RockPaperScissors-Ben.F\obj\Release\GameProg_RockPaperScissors-Ben.F.csproj.CoreCompileInputs.cache
+C:\school\programming code\GameProg_RockPaperScissors-Ben.F\GameProg_RockPaperScissors-Ben.F\obj\Release\GameProg_RockPaperScissors-Ben.F.exe
+C:\school\programming code\GameProg_RockPaperScissors-Ben.F\GameProg_RockPaperScissors-Ben.F\obj\Release\GameProg_RockPaperScissors-Ben.F.pdb

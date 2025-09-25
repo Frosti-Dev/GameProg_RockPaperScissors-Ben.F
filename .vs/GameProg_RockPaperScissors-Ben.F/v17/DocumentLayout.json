@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\school\\programming code\\GameProg_RockPaperScissors-Ben.F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E9BA95-7C3E-4282-B90B-64496BDD07A9}|GameProg_RockPaperScissors-Ben.F\\GameProg_RockPaperScissors-Ben.F.csproj|c:\\school\\programming code\\gameprog_rockpaperscissors-ben.f\\gameprog_rockpaperscissors-ben.f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E9BA95-7C3E-4282-B90B-64496BDD07A9}|GameProg_RockPaperScissors-Ben.F\\GameProg_RockPaperScissors-Ben.F.csproj|solutionrelative:gameprog_rockpaperscissors-ben.f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\school\\programming code\\GameProg_RockPaperScissors-Ben.F\\GameProg_RockPaperScissors-Ben.F\\Program.cs",
+              "RelativeDocumentMoniker": "GameProg_RockPaperScissors-Ben.F\\Program.cs",
+              "ToolTip": "C:\\school\\programming code\\GameProg_RockPaperScissors-Ben.F\\GameProg_RockPaperScissors-Ben.F\\Program.cs",
+              "RelativeToolTip": "GameProg_RockPaperScissors-Ben.F\\Program.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAgwKQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:36:31.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
